@@ -1,1 +1,1 @@
-[directus/readme.md]
+@@include[my-file.md](directus/readme.md)

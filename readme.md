@@ -1,1 +1,1 @@
-[README](directus/readme.md)
+[directus/readme.md]

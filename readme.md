@@ -1,1 +1,1 @@
-[README](zed378/directus/blob/main/directus/readme.md)
+[README](directus/readme.md)
